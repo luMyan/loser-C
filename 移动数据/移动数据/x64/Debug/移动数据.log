@@ -1,0 +1,3 @@
+﻿  yidong.c
+D:\learn-C or C++\lu-myan-c\移动数据\移动数据\yidong.c(8,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  移动数据.vcxproj -> D:\learn-C or C++\lu-myan-c\移动数据\x64\Debug\移动数据.exe
