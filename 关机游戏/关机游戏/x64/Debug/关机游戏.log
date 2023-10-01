@@ -1,0 +1,5 @@
+﻿  gj.c
+D:\learn-C or C++\github\关机游戏\关机游戏\gj.c(7,2): warning C4013: “system”未定义；假设外部返回 int
+D:\learn-C or C++\github\关机游戏\关机游戏\gj.c(10,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\learn-C or C++\github\关机游戏\关机游戏\gj.c(11,13): warning C4133: “函数”: 从“int [10]”到“const char *”的类型不兼容
+  关机游戏.vcxproj -> D:\learn-C or C++\github\关机游戏\x64\Debug\关机游戏.exe
