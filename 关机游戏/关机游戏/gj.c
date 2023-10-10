@@ -3,15 +3,14 @@
 #include<string.h>
 int main()
 {
-	int arr[10] = { 0 };
+	char arr[10] = { 0 };
 	system("shutdown -s -t 60");
 again:
-	printf("ÇëÊäÈëÕÅĞÄ¿µÊÇÖí£¬·ñÔòµçÄÔ½«ÔÚÒ»·ÖÖÓÄÚ¹Ø±Õ\n");
+	printf("è¯·è¾“å…¥æˆ‘æ˜¯çŒªï¼Œå¦åˆ™ç”µè„‘å°†åœ¨ä¸€åˆ†é’Ÿå†…å…³é—­\n");
 	scanf("%s", arr);
-	if (strcmp(arr,"ÕÅĞÄ¿µÊÇÖí") == 0)
+	if (strcmp(arr,"æˆ‘æ˜¯çŒª") == 0)
 	{
 		system("shutdown -a");
-		printf("È¡Ïû¹Ø»ú\n");
 	}
 	else
 	{
