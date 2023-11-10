@@ -1,0 +1,3 @@
+﻿  q.c
+D:\learn-C or C++\lu-myan-c\指针运算\指针运算\q.c(26,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  指针运算.vcxproj -> D:\learn-C or C++\lu-myan-c\指针运算\x64\Debug\指针运算.exe
